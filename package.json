@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/Brecert/parcel-plugin-imba.git",
   "author": "Bree Newfile <spambrecert@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "imba": "^1.3.3",
+    "parcel-bundler": "^1.9.7"
+  }
 }
