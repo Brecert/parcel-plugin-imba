@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-imba",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/Brecert/parcel-plugin-imba.git",
   "author": "Bree Newfile <spambrecert@gmail.com>",
